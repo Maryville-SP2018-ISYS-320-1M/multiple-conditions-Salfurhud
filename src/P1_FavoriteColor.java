@@ -2,12 +2,13 @@ import java.util.Scanner;
 
 /*
 ISYS 320
-Name(s):
-Date: 
+Name(s):AlfurhudSolomon
+Date: Apr8, 2018
 */
 
 /*  What was the error?
  
+ 	When using == in java you are comparing references rather than the values.
   
  */
 
